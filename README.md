@@ -3,11 +3,6 @@ This is the repository for the collection of Graph-based Deep Learning for Commu
 
 If you find this repository helpful, you may consider cite our relevant work:
 
-
-
-# Node
-Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack detection using attention-based graph neural networks[J]. Scientific Reports, 2024, 14(1): 19088.  ([Link](https://ieeexplore.ieee.org/abstract/document/11054292))
-
 # TAXONOMY OF LOCAL ATTENTION
 <table class="tg"><thead>
   <tr>
@@ -52,7 +47,7 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
     <td class="tg-c3ow"> </td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">GATv2</span>[16]</td>
+    <td class="tg-f1yk">GATv2<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16514" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -69,6 +64,7 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">HGCN</span>[27]</td>
+    <td class="tg-f1yk">HGCN<a href="[https://ojs.aaai.org/index.php/AAAI/article/view/16514](https://proceedings.neurips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>

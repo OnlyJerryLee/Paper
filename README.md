@@ -9,14 +9,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack detection using attention-based graph neural networks[J]. Scientific Reports, 2024, 14(1): 19088.  ([Link](https://ieeexplore.ieee.org/abstract/document/11054292))
 
 # TAXONOMY OF LOCAL ATTENTION
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>
@@ -44,7 +36,7 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
     <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Graph </span><br><span style="font-weight:400;font-style:normal">Regression</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">FAGCN</span>[14]</td>
+    <td class="tg-f1yk">FAGCN<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16514" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"> </td>
     <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">\checkmark</span></td>
@@ -2334,14 +2326,6 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
 </tbody></table>
 
 # TAXONOMY OF GRAPH POOLING 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>
@@ -2883,14 +2867,6 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
 
 
 # TAXONOMY OF GRAPH SIMILARITY
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>

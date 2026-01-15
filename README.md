@@ -851,6 +851,605 @@ Jianping W, Guangqiu Q, Chunming W, et al. Federated learning for network attack
   </tr>
 </tbody></table>
 
+# TAXONOMY OF MULTI-VIEW ATTENTION
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow" colspan="2"><span style="font-weight:400;font-style:normal">Graph</span></th>
+    <th class="tg-c3ow" colspan="3">Embedding</th>
+    <th class="tg-c3ow" colspan="2"><span style="font-weight:400;font-style:normal">Scope</span></th>
+    <th class="tg-c3ow" colspan="2"><span style="font-weight:400;font-style:normal">Head</span></th>
+    <th class="tg-c3ow" colspan="6"><span style="font-weight:400;font-style:normal">Task</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Model</td>
+    <td class="tg-c3ow">Homogeneous</td>
+    <td class="tg-c3ow">Heterogeneous</td>
+    <td class="tg-c3ow">Node</td>
+    <td class="tg-c3ow">Edge</td>
+    <td class="tg-c3ow">Graph</td>
+    <td class="tg-c3ow">Neighbor</td>
+    <td class="tg-c3ow">Multi-Hop</td>
+    <td class="tg-c3ow">Single</td>
+    <td class="tg-c3ow">Multi</td>
+    <td class="tg-c3ow">Node <br>Classification</td>
+    <td class="tg-c3ow">Edge <br>Classification</td>
+    <td class="tg-c3ow">Link <br>Prediction</td>
+    <td class="tg-c3ow">Graph <br>Classification</td>
+    <td class="tg-c3ow">Graph <br>Regression</td>
+    <td class="tg-c3ow">Other</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Graph Transformer[23]</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">\checkmark</span></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">LiteGT[30]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">SAT[32]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">NAGphormer[34]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">PPRGAT[37]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">DET[60]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">CAT[65]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">EGT[73]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">U-GCN[79]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GOAT[87]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">SAN[88]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">INFMCS[90]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">AERO-GNN[93]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GraphHAM[103]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Gradformer[108]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">MWGNN[122]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GraphiT[127]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">NI-CTR[129]</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Deformable GCN[140]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GPRE[141]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">TWC-GNN[142]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">ExGAT[147]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">GTAT[161]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">AM-GCN[183]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Graphormer[217]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">MV-GCN[222]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Graph-Bert[228]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">ANS-GT[236]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Gophormer[239]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">DCAT[244]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">AnchorGT[246]</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</tbody></table>
+
+
+
 # TAXONOMY OF KNOWLEDGE GRAPH ATTENTION
 <table class="tg"><thead>
   <tr>

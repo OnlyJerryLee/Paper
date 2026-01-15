@@ -47,7 +47,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"> </td>
   </tr>
   <tr>
-    <td class="tg-f1yk">GATv2<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16514" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">GATv2<a href="https://arxiv.org/abs/2105.14491" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -63,8 +63,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">\checkmark</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">HGCN</span>[27]</td>
-    <td class="tg-f1yk">HGCN<a href="[https://ojs.aaai.org/index.php/AAAI/article/view/16514](https://proceedings.neurips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">HGCN<a href="https://proceedings.neurips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -80,7 +79,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">PPRGAT</span>[37]</td>
+    <td class="tg-f1yk">PPRGAT<a href="https://ieeexplore.ieee.org/abstract/document/9746788" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -96,7 +95,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">ACEHGNN</span>[49]</td>
+    <td class="tg-f1yk">ACEHGNN<a href="https://ieeexplore.ieee.org/abstract/document/9679192" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -112,7 +111,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">hGAO</span>[51]</td>
+    <td class="tg-f1yk">hGAO<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330897" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -128,7 +127,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">PMP-GAT[64]</span></td>
+    <td class="tg-f1yk">PMP-GAT<a href="https://www.sciencedirect.com/science/article/pii/S0004370224000651" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -144,7 +143,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">SATs[66]</span></td>
+    <td class="tg-f1yk">SATs<a href="https://arxiv.org/abs/2210.07715" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -160,7 +159,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">U-GCN[79]</td>
+    <td class="tg-f1yk">U-GCN<a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -176,7 +175,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SuperGAT[83]</td>
+    <td class="tg-f1yk">SuperGAT<a href="https://arxiv.org/abs/2204.04879" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -192,7 +191,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">\checkmark</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GeniePath[115]</td>
+    <td class="tg-f1yk">GeniePath<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4354" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -208,7 +207,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">UGformer[133]</td>
+    <td class="tg-f1yk">UGformer<a href="https://dl.acm.org/doi/abs/10.1145/3487553.3524258" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -224,7 +223,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HA-GNN[146]</td>
+    <td class="tg-f1yk">HA-GNN<a href="https://link.springer.com/article/10.1007/s00521-024-09689-9" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -240,7 +239,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GAT[175]</td>
+    <td class="tg-f1yk">GAT<a href="https://arxiv.org/abs/1710.10903" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -256,7 +255,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">C-GAT[178]</td>
+    <td class="tg-f1yk">C-GAT<a href="https://arxiv.org/abs/1910.11945" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -272,7 +271,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">186</td>
+    <td class="tg-f1yk"><a href="https://arxiv.org/abs/2103.13355" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -288,7 +287,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">RFA-GNN[193]</td>
+    <td class="tg-f1yk">RFA-GNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -304,7 +303,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SAGNN[195]</td>
+    <td class="tg-f1yk">SAGNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -320,7 +319,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DMP[210]</td>
+    <td class="tg-f1yk">DMP<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -336,7 +335,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">𝜅</span>HGCN[212]</td>
+    <td class="tg-f1yk">HGCN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -352,7 +351,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">FactorGCN[213]</td>
+    <td class="tg-f1yk">FactorGCN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -368,7 +367,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CDP-GA[215]</td>
+    <td class="tg-f1yk">CDP-GA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -384,7 +383,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SGAT[216]</td>
+    <td class="tg-f1yk">SGAT<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -400,7 +399,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GMKEA[226]</td>
+    <td class="tg-f1yk">GMKEA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -416,7 +415,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CPA[232]</td>
+    <td class="tg-f1yk">CPA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -432,7 +431,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HAT [233]</td>
+    <td class="tg-f1yk">HAT<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -450,15 +449,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 </tbody></table>
 
 # TAXONOMY OF HIGH-ORDER ATTENTION
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>

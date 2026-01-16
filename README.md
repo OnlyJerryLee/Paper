@@ -33,49 +33,49 @@ If you find this repository helpful, you may consider cite our relevant work:
   </tr>
   <tr>
     <td class="tg-f1yk">FAGCN<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16514" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">✓</span></td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"> </td>
   </tr>
   <tr>
     <td class="tg-f1yk">GATv2<a href="https://arxiv.org/abs/2105.14491" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
     <td class="tg-f1yk">HGCN<a href="https://proceedings.neurips.cc/paper_files/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
@@ -478,7 +478,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"><span style="color:black">Graph </span><br><span style="color:black">Classification</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DMG[12]</td>
+    <td class="tg-f1yk">DMG<a href="https://ieeexplore.ieee.org/abstract/document/11114958" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow">\checkmark</td>
@@ -494,7 +494,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="color:black">NAGphormer[34]</span></td>
+    <td class="tg-f1yk">NAGphormer<a href="https://arxiv.org/abs/2206.04910" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -510,7 +510,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HopGNN[35]</td>
+    <td class="tg-f1yk">HopGNN<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Chen_From_Node_Interaction_To_Hop_Interaction_New_Effective_and_Scalable_CVPR_2023_paper.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -526,7 +526,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">RAW-GNN[78]</td>
+    <td class="tg-f1yk">RAW-GNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -542,7 +542,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">U-GCN[79]</td>
+    <td class="tg-f1yk">U-GCN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -558,7 +558,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">\checkmark</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AERO-GNN[93]</td>
+    <td class="tg-f1yk">AERO-GNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -574,7 +574,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">NLGAT[111]</td>
+    <td class="tg-f1yk">NLGAT<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -590,7 +590,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GeniePath[115]</td>
+    <td class="tg-f1yk">GeniePath<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -606,7 +606,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">TGCA[116]</td>
+    <td class="tg-f1yk">TGCA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow">\checkmark</td>
@@ -622,7 +622,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MSAD-GNN[119]</td>
+    <td class="tg-f1yk">MSAD-GNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -638,7 +638,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">NAAM[131]</td>
+    <td class="tg-f1yk">NAAM<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -654,7 +654,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ASLAM[134]</td>
+    <td class="tg-f1yk">ASLAM<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -670,7 +670,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AGDN[167]</td>
+    <td class="tg-f1yk">AGDN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -686,7 +686,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">WRGNN[171]</td>
+    <td class="tg-f1yk">WRGNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -702,7 +702,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DAEGC[177]</td>
+    <td class="tg-f1yk">DAEGC<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -718,7 +718,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MAGNA[179]</td>
+    <td class="tg-f1yk">MAGNA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow">\checkmark</td>
@@ -734,7 +734,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SNAN[188]</td>
+    <td class="tg-f1yk">SNAN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -750,7 +750,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">NodeFormer[194]</td>
+    <td class="tg-f1yk">NodeFormer<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -766,7 +766,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SAGNN[195]</td>
+    <td class="tg-f1yk">SAGNN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -782,7 +782,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GraphTrans[197]</td>
+    <td class="tg-f1yk">GraphTrans<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -798,7 +798,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">\checkmark</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SPAGAN[214]</td>
+    <td class="tg-f1yk">SPAGAN<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -814,7 +814,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Graph-Bert[228]</td>
+    <td class="tg-f1yk">Graph-Bert<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow">\checkmark</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow">\checkmark</td>
@@ -832,14 +832,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 </tbody></table>
 
 # TAXONOMY OF MULTI-VIEW ATTENTION
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>
@@ -1429,14 +1421,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 </tbody></table>
 
 # TAXONOMY OF HOMOGENEOUS GRAPH ATTENTION
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>
@@ -1671,14 +1655,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 </tbody></table>
 
 # TAXONOMY OF HETEROGENEOUS GRAPH ATTENTION
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>

@@ -527,7 +527,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">RAW-GNN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">RAW-GNN<a href="https://arxiv.org/abs/2206.13953" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -543,7 +543,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">U-GCN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">U-GCN<a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -559,7 +559,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">AERO-GNN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">AERO-GNN<a href="https://proceedings.mlr.press/v202/lee23b.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -575,7 +575,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">NLGAT<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">NLGAT<a href="https://ieeexplore.ieee.org/abstract/document/9645300" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -591,7 +591,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">GeniePath<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">GeniePath<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4354" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -607,7 +607,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">TGCA<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">TGCA<a href="https://ieeexplore.ieee.org/abstract/document/10888159" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -623,7 +623,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">MSAD-GNN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">MSAD-GNN<a href="https://link.springer.com/article/10.1007/s10115-025-02406-5" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -639,7 +639,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">NAAM<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">NAAM<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35278" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -655,7 +655,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">ASLAM<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">ASLAM<a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494625005794" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -671,7 +671,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">AGDN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">AGDN<a href="https://arxiv.org/abs/2012.15024" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -687,7 +687,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">WRGNN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">WRGNN<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467373" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -703,7 +703,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">DAEGC<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">DAEGC<a href="https://arxiv.org/abs/1906.06532" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -719,7 +719,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">MAGNA<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">MAGNA<a href="https://arxiv.org/abs/2009.14332" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -735,7 +735,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">SNAN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">SNAN<a href="https://ieeexplore.ieee.org/abstract/document/9174790" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -751,7 +751,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">NodeFormer<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">NodeFormer<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/af790b7ae573771689438bbcfc5933fe-Abstract-Conference.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -767,7 +767,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">SAGNN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">SAGNN<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231223008548" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -783,7 +783,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">GraphTrans<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">GraphTrans<a href="https://proceedings.neurips.cc/paper/2021/hash/6e67691b60ed3e4a55935261314dd534-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -799,7 +799,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">SPAGAN<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">SPAGAN<a href="https://arxiv.org/abs/2101.03464" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -815,7 +815,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">Graph-Bert<a href="" target="_blank">[Link]</a></td>
+    <td class="tg-f1yk">Graph-Bert<a href="https://arxiv.org/abs/2001.05140" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -831,8 +831,6 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
 </tbody></table>
-
-
 
 # TAXONOMY OF MULTI-VIEW ATTENTION
 <table class="tg"><thead>

@@ -81,115 +81,115 @@ If you find this repository helpful, you may consider cite our relevant work:
   </tr>
   <tr>
     <td class="tg-f1yk">PPRGAT<a href="https://ieeexplore.ieee.org/abstract/document/9746788" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">ACEHGNN<a href="https://ieeexplore.ieee.org/abstract/document/9679192" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">✓</span></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">hGAO<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330897" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">PMP-GAT<a href="https://www.sciencedirect.com/science/article/pii/S0004370224000651" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">SATs<a href="https://arxiv.org/abs/2210.07715" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">U-GCN<a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">SuperGAT<a href="https://arxiv.org/abs/2204.04879" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
     <td class="tg-f1yk">GeniePath<a href="https://ojs.aaai.org/index.php/AAAI/article/view/4354" target="_blank">[Link]</a></td>
@@ -480,127 +480,127 @@ If you find this repository helpful, you may consider cite our relevant work:
   <tr>
     <td class="tg-f1yk">DMG<a href="https://ieeexplore.ieee.org/abstract/document/11114958" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">NAGphormer<a href="https://arxiv.org/abs/2206.04910" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">HopGNN<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Chen_From_Node_Interaction_To_Hop_Interaction_New_Effective_and_Scalable_CVPR_2023_paper.html" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">RAW-GNN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">U-GCN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
   </tr>
   <tr>
     <td class="tg-f1yk">AERO-GNN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">NLGAT<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">GeniePath<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
@@ -608,228 +608,229 @@ If you find this repository helpful, you may consider cite our relevant work:
   <tr>
     <td class="tg-f1yk">TGCA<a href="" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">MSAD-GNN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">NAAM<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">ASLAM<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">AGDN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">WRGNN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">DAEGC<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">MAGNA<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">SNAN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">NodeFormer<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">SAGNN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">GraphTrans<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
   </tr>
   <tr>
     <td class="tg-f1yk">SPAGAN<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-f1yk">Graph-Bert<a href="" target="_blank">[Link]</a></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
-    <td class="tg-c3ow">\checkmark</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
+    <td class=“tg-c3ow” align=“center”>✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
 </tbody></table>
+
 
 # TAXONOMY OF MULTI-VIEW ATTENTION
 <table class="tg"><thead>

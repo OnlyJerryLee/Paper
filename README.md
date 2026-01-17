@@ -2322,7 +2322,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">Graph <br>Similarity</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MemGNN[1]</td>
+    <td class="tg-f1yk">MemGNN<a href="https://arxiv.org/abs/2002.09518" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2339,7 +2339,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GMT[7]</td>
+    <td class="tg-f1yk">GMT<a href="https://arxiv.org/abs/2102.11533" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2356,7 +2356,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MSNA[9]</td>
+    <td class="tg-f1yk">MSNA<a href="https://arxiv.org/abs/1904.01098" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2373,7 +2373,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ESA[21]</td>
+    <td class="tg-f1yk">ESA<a href="https://www.nature.com/articles/s41467-025-60252-z" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2390,7 +2390,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">RGCNN[44]</td>
+    <td class="tg-f1yk">RGCNN<a href="https://ieeexplore.ieee.org/abstract/document/9645437" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2407,7 +2407,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">StructSa[47]</td>
+    <td class="tg-f1yk">StructSa<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319303851" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2424,7 +2424,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">LookHops[53]</td>
+    <td class="tg-f1yk">LookHops<a href="https://arxiv.org/abs/2012.15741" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2441,7 +2441,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AttPool[70]</td>
+    <td class="tg-f1yk">AttPool<a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Huang_AttPool_Towards_Hierarchical_Feature_Representation_in_Graph_Convolutional_Networks_via_ICCV_2019_paper.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2458,7 +2458,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GOAT[87]</td>
+    <td class="tg-f1yk">GOAT<a href="https://proceedings.mlr.press/v202/kong23a.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2475,7 +2475,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SAGPool[92]</td>
+    <td class="tg-f1yk">SAGPool<a href="https://proceedings.mlr.press/v97/lee19c.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2492,7 +2492,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HGPSACA[99]</td>
+    <td class="tg-f1yk">HGPSACA<a href="https://ieeexplore.ieee.org/abstract/document/9501028" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2509,7 +2509,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Gapformer[109]</td>
+    <td class="tg-f1yk">Gapformer<a href="https://dl.acm.org/doi/abs/10.24963/ijcai.2023/244" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2526,7 +2526,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SMIP[112]</td>
+    <td class="tg-f1yk">SMIP<a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557485" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2543,7 +2543,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HAP[113]</td>
+    <td class="tg-f1yk">HAP<a href="https://ieeexplore.ieee.org/abstract/document/9645229" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2560,7 +2560,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ABDPool[114]</td>
+    <td class="tg-f1yk">ABDPool<a href="https://ieeexplore.ieee.org/abstract/document/9956378" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2577,7 +2577,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">LaPool[136]</td>
+    <td class="tg-f1yk">LaPool<a href="https://arxiv.org/abs/1905.11577" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2594,7 +2594,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CGIPool[137]</td>
+    <td class="tg-f1yk">CGIPool<a href="https://dl.acm.org/doi/abs/10.1145/3404835.3463074" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2611,7 +2611,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AGCN[143]</td>
+    <td class="tg-f1yk">AGCN<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475276" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2628,7 +2628,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ASAP[149]</td>
+    <td class="tg-f1yk">ASAP<a href="https://ojs.aaai.org/index.php/AAAI/article/view/5997" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2645,7 +2645,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DAEGC[177]</td>
+    <td class="tg-f1yk">DAEGC<a href="https://arxiv.org/abs/1906.06532" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2662,7 +2662,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GMAPS[185]</td>
+    <td class="tg-f1yk">GMAPS<a href="https://www.mdpi.com/1099-4300/24/12/1745" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2679,7 +2679,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SoPool[187]</td>
+    <td class="tg-f1yk">SoPool<a href="https://ieeexplore.ieee.org/abstract/document/9104936" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2696,7 +2696,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GraphTrans[197]</td>
+    <td class="tg-f1yk">GraphTrans<a href="https://proceedings.neurips.cc/paper/2021/hash/6e67691b60ed3e4a55935261314dd534-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2713,7 +2713,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AGCN[200]</td>
+    <td class="tg-f1yk">AGCN<a href="https://arxiv.org/abs/2509.15024" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2730,7 +2730,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GMCAP[206]</td>
+    <td class="tg-f1yk">GMCAP<a href="https://ieeexplore.ieee.org/abstract/document/10636839" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2747,7 +2747,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MAC[207]</td>
+    <td class="tg-f1yk">MAC<a href="https://ieeexplore.ieee.org/abstract/document/9767199" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2764,7 +2764,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">StructPool[221]</td>
+    <td class="tg-f1yk">StructPool<a href="https://par.nsf.gov/servlets/purl/10159731" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2781,7 +2781,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GSAPool[231]</td>
+    <td class="tg-f1yk">GSAPool<a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380083" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2798,7 +2798,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HGP-SL[234]</td>
+    <td class="tg-f1yk">HGP-SL<a href="https://arxiv.org/abs/1911.05954" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2808,14 +2808,14 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">\checkmark</span></td>
+    <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ENADPool[240]</td>
+    <td class="tg-f1yk">ENADPool<a href="https://arxiv.org/abs/2405.10218" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2832,8 +2832,6 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
 </tbody></table>
-
-
 
 
 # TAXONOMY OF GRAPH SIMILARITY
@@ -2865,7 +2863,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">Graph <br>Similarity</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DDGK[5]</td>
+    <td class="tg-f1yk">DDGK<a href="https://dl.acm.org/doi/abs/10.1145/3308558.3313668" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2882,7 +2880,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SimGNN[8]</td>
+    <td class="tg-f1yk">SimGNN<a href="https://dl.acm.org/doi/abs/10.1145/3289600.3290967" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2899,7 +2897,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MSNA[9]</td>
+    <td class="tg-f1yk">MSNA<a href="https://arxiv.org/abs/1904.01098" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2916,7 +2914,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">LiteGT[30]</td>
+    <td class="tg-f1yk">LiteGT<a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482272" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2933,7 +2931,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AMNS[59]</td>
+    <td class="tg-f1yk">AMNS<a href="https://link.springer.com/chapter/10.1007/978-981-15-1377-0_46" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2950,7 +2948,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DET[60]</td>
+    <td class="tg-f1yk">DET<a href="https://arxiv.org/abs/2202.10581" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2967,7 +2965,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">G-Guard[71]</td>
+    <td class="tg-f1yk">G-Guard<a href="https://arxiv.org/abs/2507.07146" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -2984,7 +2982,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GCAN[75]</td>
+    <td class="tg-f1yk">GCAN<a href="http://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Graph-Context_Attention_Networks_for_Size-Varied_Deep_Graph_Matching_CVPR_2022_paper.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3001,7 +2999,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">TANGNN[76]</td>
+    <td class="tg-f1yk">TANGNN<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425002210" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3018,7 +3016,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">INFMCS[90]</td>
+    <td class="tg-f1yk">INFMCS<a href="https://ieeexplore.ieee.org/abstract/document/10496270" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3035,7 +3033,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GMN[96]</td>
+    <td class="tg-f1yk">GMN<a href="https://proceedings.mlr.press/v97/li19d.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3052,7 +3050,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MGMN[105]</td>
+    <td class="tg-f1yk">MGMN<a href="https://ieeexplore.ieee.org/abstract/document/9516695" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3069,7 +3067,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">DeepSIM[107]</td>
+    <td class="tg-f1yk">DeepSIM<a href="https://link.springer.com/article/10.1007/s00500-023-09288-1" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3086,7 +3084,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">NA-GSL[172]</td>
+    <td class="tg-f1yk">NA-GSL<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123004896" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3103,7 +3101,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">AGNN[173]</td>
+    <td class="tg-f1yk">AGNN<a href="https://arxiv.org/abs/1803.03735" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3120,7 +3118,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">180</td>
+    <td class="tg-f1yk"><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Combinatorial_Learning_of_Graph_Edit_Distance_via_Dynamic_Embedding_CVPR_2021_paper.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3137,7 +3135,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MSF-GCN[184]</td>
+    <td class="tg-f1yk">MSF-GCN<a href="https://link.springer.com/article/10.1007/s00521-021-06429-1" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3154,7 +3152,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CoSimGNN[203]</td>
+    <td class="tg-f1yk">CoSimGNN<a href="https://arxiv.org/abs/2005.07115" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3171,7 +3169,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">PSimGNN[204]</td>
+    <td class="tg-f1yk">PSimGNN<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221001351" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3188,7 +3186,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SiGAT[208]</td>
+    <td class="tg-f1yk">SiGAT<a href="https://link.springer.com/article/10.1140/epjb/s10051-023-00495-1" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3205,7 +3203,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CDP-GA[215]</td>
+    <td class="tg-f1yk">CDP-GA<a href="https://ieeexplore.ieee.org/abstract/document/9378189" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3222,7 +3220,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ADSF[230]</td>
+    <td class="tg-f1yk">ADSF<a href="https://openreview.net/forum?id=BJxWx0NYPr" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -3239,7 +3237,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ANS-GT[236]</td>
+    <td class="tg-f1yk">ANS-GT<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/854a9ab0f323b841955e70ca383b27d1-Abstract-Conference.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>

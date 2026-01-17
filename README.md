@@ -1452,7 +1452,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow">Other</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MemGNN[1]</td>
+    <td class="tg-f1yk">MemGNN<a href="https://arxiv.org/abs/2002.09518" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1469,7 +1469,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">ESA[21]</td>
+    <td class="tg-f1yk">ESA<a href="https://www.nature.com/articles/s41467-025-60252-z" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1486,7 +1486,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">E-ResGAT[28]</td>
+    <td class="tg-f1yk">E-ResGAT<a href="https://arxiv.org/abs/2111.13597" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1503,7 +1503,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">29</td>
+    <td class="tg-f1yk"><a href="https://ieeexplore.ieee.org/abstract/document/9526616" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1520,7 +1520,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">EGAT[33]</td>
+    <td class="tg-f1yk">EGAT<a href="https://arxiv.org/abs/2101.07671" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1537,7 +1537,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GraphTransformer[45]</td>
+    <td class="tg-f1yk">Graph Transformer<a href="https://arxiv.org/abs/2012.09699" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1554,7 +1554,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">EATSA-GNN[48]</td>
+    <td class="tg-f1yk">EATSA-GNN<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014577" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1571,7 +1571,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">EGT[73]</td>
+    <td class="tg-f1yk">EGT<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539296" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1588,7 +1588,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">TokenGT[84]</td>
+    <td class="tg-f1yk">TokenGT<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1605,7 +1605,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">SAN[88]</td>
+    <td class="tg-f1yk">SAN<a href="https://proceedings.neurips.cc/paper_files/paper/2021/hash/b4fd1d2cb085390fbbadae65e07876a7-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1622,7 +1622,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">UniMP[164]</td>
+    <td class="tg-f1yk">UniMP<a href="https://arxiv.org/abs/2009.03509" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1639,7 +1639,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Graphormer[217]</td>
+    <td class="tg-f1yk">Graphormer<a href="https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html" target="_blank">[Link]</a></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1689,7 +1689,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Other</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GraphTransformer[23]</td>
+    <td class="tg-f1yk">Graph Transformer<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6243" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1708,7 +1708,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CGAT[24]</td>
+    <td class="tg-f1yk">CGAT<a href="https://ieeexplore.ieee.org/abstract/document/9206610" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1727,7 +1727,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">GATNE[26]</td>
+    <td class="tg-f1yk">GATNE<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330964" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1746,7 +1746,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MAGNN[50]</td>
+    <td class="tg-f1yk">MAGNN<a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380297" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1765,7 +1765,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HetSANN[67]</td>
+    <td class="tg-f1yk">HetSANN<a href="https://ojs.aaai.org/index.php/AAAI/article/view/5833" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1784,7 +1784,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HGT[69]</td>
+    <td class="tg-f1yk">HGT<a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380027" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1803,7 +1803,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HGNN-AC[77]</td>
+    <td class="tg-f1yk">HGNN-AC<a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449914" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1822,7 +1822,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HG-former[102]</td>
+    <td class="tg-f1yk">HG-former<a href="https://arxiv.org/abs/2407.10916" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1841,7 +1841,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HGAT[106]</td>
+    <td class="tg-f1yk">HGAT<a href="https://aclanthology.org/D19-1488/" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1860,7 +1860,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Simple-HGN[118]</td>
+    <td class="tg-f1yk">Simple-HGN<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467350" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1879,7 +1879,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">PSHGAN[125]</td>
+    <td class="tg-f1yk">PSHGAN<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122101479X" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1898,7 +1898,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">NI-CTR[129]</td>
+    <td class="tg-f1yk">NI-CTR<a href="https://dl.acm.org/doi/abs/10.1145/3477495.3532031" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1917,7 +1917,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">RelGNN[145]</td>
+    <td class="tg-f1yk">RelGNN<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17129" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1936,7 +1936,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">EAGCN[158]</td>
+    <td class="tg-f1yk">EAGCN<a href="https://arxiv.org/abs/1802.04944" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1955,7 +1955,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HAN[182]</td>
+    <td class="tg-f1yk">HAN<a href="https://dl.acm.org/doi/abs/10.1145/3308558.3313562" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1974,7 +1974,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">HetGNN[225]</td>
+    <td class="tg-f1yk">HetGNN<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330961" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>
@@ -1993,7 +1993,7 @@ If you find this repository helpful, you may consider cite our relevant work:
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">CL-GNN[245]</td>
+    <td class="tg-f1yk">CL-GNN<a href="https://ieeexplore.ieee.org/abstract/document/8970828" target="_blank">[Link]</a></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow" align="center">✓</td>
     <td class="tg-c3ow" align="center">✓</td>

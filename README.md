@@ -1,9 +1,3 @@
-# Paper
-This is the repository for the collection of Graph-based Deep Learning for Communication Networks.
-
-If you find this repository helpful, you may consider cite our relevant work:
-
-
 # Taxonomy Of Local Attention
 <table class="tg"><thead>
   <tr>
@@ -2013,283 +2007,264 @@ If you find this repository helpful, you may consider cite our relevant work:
   </tr>
 </tbody></table>
 
-
 # TAXONOMY OF KNOWLEDGE GRAPH ATTENTION
 <table class="tg"><thead>
   <tr>
-    <th class="tg-r80l"></th>
-    <th class="tg-r80l" colspan="2">Graph</th>
-    <th class="tg-r80l" colspan="3">Embedding</th>
-    <th class="tg-f1yk" colspan="2"><span style="font-weight:400;font-style:normal">Scope</span></th>
-    <th class="tg-f1yk" colspan="2"><span style="font-weight:400;font-style:normal">Head</span></th>
-    <th class="tg-f1yk" colspan="7">Task</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Graph</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Embedding</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"><span style="font-weight:400;font-style:normal">Scope</span></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"><span style="font-weight:400;font-style:normal">Head</span></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Task</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-r80l">Model</td>
-    <td class="tg-r80l">Homogeneous</td>
-    <td class="tg-r80l">Heterogeneous</td>
-    <td class="tg-r80l"><span style="font-weight:400;font-style:normal">Node</span></td>
-    <td class="tg-r80l"><span style="font-weight:400;font-style:normal">Edge</span></td>
-    <td class="tg-r80l"><span style="font-weight:400;font-style:normal">Graph</span></td>
-    <td class="tg-42x8"><span style="font-weight:400;font-style:normal">Neighbor</span></td>
-    <td class="tg-42x8"><span style="font-weight:400;font-style:normal">Multi-Hop</span></td>
-    <td class="tg-42x8"><span style="font-weight:400;font-style:normal">Single</span></td>
-    <td class="tg-42x8">Multi</td>
-    <td class="tg-vlxe">Node Classification</td>
-    <td class="tg-vlxe">Link Prediction</td>
-    <td class="tg-vlxe">Graph Classification</td>
-    <td class="tg-42x8">knowledge graph<br><span style="font-weight:400;font-style:normal">completion</span></td>
-    <td class="tg-vlxe">Entity Alignment</td>
-    <td class="tg-42x8">Comparative preference<br><span style="font-weight:400;font-style:normal">classification</span></td>
-    <td class="tg-42x8">Recommendation</td>
+    <td class="tg-c3ow">Model</td>
+    <td class="tg-c3ow">Homogeneous</td>
+    <td class="tg-c3ow">Heterogeneous</td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Node</span></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Edge</span></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Graph</span></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Neighbor</span></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Multi-Hop</span></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Single</span></td>
+    <td class="tg-c3ow">Multi</td>
+    <td class="tg-c3ow">Node <br>Classification</td>
+    <td class="tg-c3ow">Link <br>Prediction</td>
+    <td class="tg-c3ow">Graph <br>Classification</td>
+    <td class="tg-c3ow">Other</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">RGHAT<a href="https://your-link-here" target="_blank">[Link]</a></td>
-    <td class="tg-r80l"></td>
-    <td class="tg-r80l">✓</td>
-    <td class="tg-r80l">✓</td>
-    <td class="tg-r80l"></td>
-    <td class="tg-r80l"><span style="font-weight:400;font-style:normal;text-decoration:none">✓</span></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">RGAT<a href="https://arxiv.org/abs/1904.05811" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-r80l">MuGNN</td>
-    <td class="tg-r80l"></td>
-    <td class="tg-r80l">✓</td>
-    <td class="tg-r80l">✓</td>
-    <td class="tg-r80l"></td>
-    <td class="tg-r80l"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">MuGNN<a href="https://arxiv.org/abs/1908.09898" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">MRGAT</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">MRGAT<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608022002714" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">HRAN</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">CAGNN<a href="https://arxiv.org/abs/2506.10329" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">ED-GAT</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">HRAN<a href="https://ieeexplore.ieee.org/abstract/document/9359364" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">[133]</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">ED-GAT<a href="https://par.nsf.gov/biblio/10195694" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">AliNet</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk"><a href="https://arxiv.org/abs/1906.01195" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">MAGNA</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-zd42"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">AliNet<a href="https://ojs.aaai.org/index.php/AAAI/article/view/5354" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">KGAT</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
+    <td class="tg-f1yk">MAGNA<a href="https://arxiv.org/abs/2009.14332" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">GATH</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">KGAT<a href="https://dl.acm.org/doi/abs/10.1145/3292500.3330989" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">DisenKGAT</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">GATH<a href="https://dl.acm.org/doi/full/10.1145/3639472" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
   <tr>
-    <td class="tg-f1yk">RDGCN</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">DisenKGAT<a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482424" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-f1yk">RGHAT</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-f1yk">✓</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f1yk">RDGCN<a href="https://arxiv.org/abs/1908.08210" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+  </tr>
+  <tr>
+    <td class="tg-f1yk">RGHAT<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6508" target="_blank">[Link]</a></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow" align="center">✓</td>
   </tr>
 </tbody></table>
 
